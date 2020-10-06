@@ -18,7 +18,7 @@ Welcome to the next big thing in mobile applications. A simple application that 
   
 ### Open Camera on mobile device and scan QR code below:
 
-  * ![qr-code]('qr-code.png')
+  * ![qr-code](401d37-class-41/qr-code.png)
   
 ### Click on gallery button to view photos. 
 
