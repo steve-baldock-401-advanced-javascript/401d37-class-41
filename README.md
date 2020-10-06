@@ -13,4 +13,4 @@ React Native Application Build - Lab 41
   
 * Open Camera on mobile device and scan QR code below:
 
-![QR-code]()
+![QR-code]('./qr-code')
